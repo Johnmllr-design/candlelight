@@ -1,0 +1,9 @@
+Essay
+  ↓
+Transformer Encoder
+  ↓
+Essay Embedding
+  ↓
+[Regression Head] → score
+[Contrastive Loss] → similarity
+[LLM Judge] → explanation
